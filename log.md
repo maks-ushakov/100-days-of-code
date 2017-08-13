@@ -40,3 +40,14 @@
 
 **Link(s) to work**
 1. [Glitch Quotes](https://quotes.glitch.me/)
+
+
+### Day 5: 13 August 2017
+
+**Today's Progress**: Total progress is zero
+
+**Thoughts** : Wasted time with lib fullPage.js for my portfolio. But finally, it isn't what I wanted 😓. So I'm seeking another one
+
+**Link(s) to work**
+1. [Portfolio](https://github.com/maks-ushakov/portfolio)
+
