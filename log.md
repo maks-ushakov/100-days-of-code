@@ -51,3 +51,22 @@
 **Link(s) to work**
 1. [Portfolio](https://github.com/maks-ushakov/portfolio)
 
+
+### Day 6: 14 August 2017
+
+**Today's Progress**: Make app with localStorage, DragAndDrop and FileReader API
+
+**Thoughts** : I'm Making test work for the future job. I have to learn a lot of things: File API, FileReader, localStorage. Repeat my "css-flex" skills. But i want to know how to do it with css-grid
+
+**Link(s) to work**
+1. [Cert-Storage](https://maks-ushakov.github.io/cert-storage/)  
+  
+### Day 7: 15 August 2017
+
+**Today's Progress**: Add event handler and refractor some test project for MVC 
+
+**Thoughts** : I'm learning MVC and other Design patterns, continuing making test work and get stuck. I imagine how to do some thing but do not do it.
+
+**Link(s) to work**
+1. [Cert-Storage](https://maks-ushakov.github.io/cert-storage/)  
+
