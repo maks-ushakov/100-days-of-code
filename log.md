@@ -68,5 +68,26 @@
 **Thoughts** : I'm learning MVC and other Design patterns, continuing making test work and get stuck. I imagine how to do some thing but do not do it.
 
 **Link(s) to work**
-1. [Cert-Storage](https://maks-ushakov.github.io/cert-storage/)  
+1. [Cert-Storage](https://maks-ushakov.github.io/cert-storage/)
+
+
+### Day 8: 16 August 2017
+
+**Today's Progress**: Changed Ubuntu to LinuxMint, fixed problem
+
+**Thoughts** : Today I found out how useful command `git checkout HEAD`
+Had problem after change distro
+
+**Link(s) to work**
+1. [Twitter post](https://twitter.com/projmaks/status/897908978432315393)
+
+
+### Day 9: 17 August 2017
+
+**Today's Progress**: test prodject can save and show what i need.
+
+**Thoughts** : Today was a good day. I spend time reading library I need to test project. Added Handlebars for templating. Finally, test project works but the ugly code must be refactored.
+
+**Link(s) to work**
+1. [Cert-Storage](https://maks-ushakov.github.io/cert-storage/)
 
