@@ -91,3 +91,55 @@ Had problem after change distro
 **Link(s) to work**
 1. [Cert-Storage](https://maks-ushakov.github.io/cert-storage/)
 
+
+### Day 10: 18 August 2017
+
+**Today's Progress**: null
+
+**Thoughts** : Today I wanted to refactor my code but thinking a lot and working with paper and pen instead
+
+**Link(s) to work**
+1. [Twitter post](https://twitter.com/projmaks/status/898602152821534720)
+
+
+### Day 11: 19 August 2017
+
+**Today's Progress**: starting refactor the code
+
+**Thoughts** : Refactored, add error handler, refactor again
+
+**Link(s) to work**
+1. [Commit](https://github.com/maks-ushakov/cert-storage/commit/ec14f184ac3d2e7a3957ebd843595baac10dbda4)
+2. [Twitter post](https://twitter.com/projmaks/status/899013216566685696)  
+
+
+### Day 12: 20 August 2017
+
+**Today's Progress**: Improve view, add EventEmmiter
+
+**Thoughts** : I was busy with code. I shoul done it by monday
+
+**Link(s) to work**
+1. [Cert Storage](https://github.com/maks-ushakov/cert-storage)
+
+
+### Day 13: 21 August 2017
+**Today's Progress**: I have done this project
+
+**Thoughts** : I still get a bug with Ukrainian alphabet when I use Array.sort function. But I make all initial demands 
+
+**Link(s) to work**
+1. [Cert-Storage](https://maks-ushakov.github.io/cert-storage/)  
+
+
+### Lost day : 22 August 2017
+
+
+### Day 14: 23 August 2017
+
+**Today's Progress**: start another project
+
+**Thoughts** : Today I get another job offer and test work for it.
+
+**Link(s) to work**
+1. [Store Session](https://github.com/maks-ushakov/store-session)
