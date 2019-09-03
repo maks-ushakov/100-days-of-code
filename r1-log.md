@@ -16,4 +16,13 @@ I restart project with Symfony 4.3 last week. but today I just make a code.
 **Link(s) to work**
 1. [Timestamp Microservice](https://github.com/maks-ushakov/symfony-fcc-backend-api)
 
+
 ### R1D2
+### September 2, Monday
+
+**Today's progress**: Decide to reinvest the wheel. Trying to make own router through object instead of "switch" and "if" statemans
+
+**Thoughts**: At first it was hard to understanding, but after creating the literal object i did that. think my solution is very ugly and absolutely shrinked router.
+
+**Link(s) to work**:
+[Twitter msg](https://twitter.com/projmaks/status/1168615453276684288?s=19) 
