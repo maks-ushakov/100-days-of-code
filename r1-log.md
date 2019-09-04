@@ -27,7 +27,7 @@ I restart project with Symfony 4.3 last week. but today I just make a code.
 **Link(s) to work**:
 [Twitter msg](https://twitter.com/projmaks/status/1168615453276684288?s=19) 
 
-### R1D1 
+### R1D3 
 ### September 3, Teusday
 
 **Today's Progress**: Free code camp API projects Header Parser Microservice was solved using PHP framework Symfony.
@@ -36,3 +36,14 @@ I restart project with Symfony 4.3 last week. but today I just make a code.
 
 **Link(s) to work**
 1. [Timestamp Microservice](https://github.com/maks-ushakov/symfony-fcc-backend-api)
+
+
+### R1D4 
+### September 4, Teusday
+
+**Today's Progress**: I have watched a Node.js workshop and then read starting skeleton and webpack config.
+
+**Thoughts** : I will try to repeat that!!! Definitely!!!
+
+**Link(s) to work**
+1. [Timestamp Microservice](https://twitter.com/projmaks/status/1169338621574504449?s=20)
