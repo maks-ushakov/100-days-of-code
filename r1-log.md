@@ -39,7 +39,7 @@ I restart project with Symfony 4.3 last week. but today I just make a code.
 
 
 ### R1D4 
-### September 4, Teusday
+### September 4, Wednesday
 
 **Today's Progress**: I have watched a Node.js workshop and then read starting skeleton and webpack config.
 
@@ -47,3 +47,25 @@ I restart project with Symfony 4.3 last week. but today I just make a code.
 
 **Link(s) to work**
 1. [Timestamp Microservice](https://twitter.com/projmaks/status/1169338621574504449?s=20)
+
+### R1D5
+### September 5, 
+
+** Today's Progress**: I was trying to solve Codevars Kata with short code requirements
+https://codewars.com/kata/5935558a32fb828aad001213/train/javascript
+
+** Thoughts**: It is hard. Spent an hour to solve but do not imagine how to do that😰
+
+** Link(s) to work**
+[Twittter status](https://twitter.com/projmaks/status/1169717209939304449?s=20)
+
+### R1D6-7
+### September 6,7
+
+** Today's Progress **: Learning Symfony from #freeCodeCamp channel and from symfonycasts and trying to modify code slightly. Stellar Development cast.
+
+** Thoughts **: It is my little steps for better understanding. Hope this habbits will be useful in the real projects.
+
+** Link(s) to work**:
+[Twitter status](https://twitter.com/projmaks/status/1170390129502035969?s=20)
+
